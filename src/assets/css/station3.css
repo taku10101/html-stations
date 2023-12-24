@@ -3,18 +3,19 @@
   padding: 5px;
 }
 
-.card_title {
-  color: "#282828";
+.card__title {
+  color: #282828;
   font-weight: 14px;
 }
+
 .card__description {
-  color: "#282828";
+  color: #282828;
   font-weight: 12px;
 }
 
-.card img {
-  width: 182px;
-  height: 288px;
+.card__img-top {
+  width: 288px;
+  height: 182px;
   object-fit: cover;
   margin-bottom: 5px;
 }
